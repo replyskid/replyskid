@@ -1,16 +1,13 @@
-### Hi there 👋
+# xenc
 
-<!--
-**replyskid/replyskid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+hi am xenc, pro c# ~~skid~~ coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i also semi know golang and java.
+
+<3
+
+
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xen1400&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=xen1400&show_icons=true&theme=dark)
