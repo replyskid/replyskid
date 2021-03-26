@@ -9,5 +9,5 @@ i also semi know golang and java.
 
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xen1400&layout=compact&theme=dark) </br>
-![stats](https://github-readme-stats.vercel.app/api?username=xen1400&show_icons=true&theme=dark)
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=replyskid&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=replyskid&show_icons=true&theme=dark)
