@@ -1,10 +1,20 @@
-# xenc
+# xences
 
+# DISCORD: KYS#0428
+hello, I'm xen; a learning developer, and a pro c skid coder
 
-hi am xenc, pro c# ~~skid~~ coder
-i know a little bit of go and i also know js, as well as py
-idk what to put here >:(
+if u need help w/ smth just create an issue and ill respond ig
+
+Languages:
+```
+js
+py
+golang (a bit)
+vlang (still learning
 
 <3
 
 
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xences&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=xences&show_icons=true&theme=dark)
