@@ -3,7 +3,7 @@
 # DISCORD: KYS#0428
 hello, I'm xen; a learning developer, and a pro c skid coder
 
-if u need help w/ smth just create an issue and ill respond ig
+if u need help w/ something contact my discord or create a issue!
 
 Languages:
 ```
