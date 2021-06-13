@@ -16,5 +16,5 @@ vlang (still learning
 ```
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xences&layout=compact&theme=dark) </br>
-![stats](https://github-readme-stats.vercel.app/api?username=xences&show_icons=true&theme=dark)
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubCrawIer&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=GithubCrawIer&show_icons=true&theme=dark)
