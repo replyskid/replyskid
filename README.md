@@ -5,6 +5,7 @@ hello, I'm xen; a learning developer, and a pro c skid coder
 
 if u need help w/ something contact my discord or create a issue!
 
+more js projects coming soon !
 # socials
 <img src="https://discord.c99.nl/widget/theme-2/823939188885815328.png">
 
