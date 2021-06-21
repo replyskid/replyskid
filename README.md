@@ -1,4 +1,4 @@
-# xences
+# Xayo
 
 # DISCORD: ascii#0369
 hello, I'm xen; a learning developer, and a pro c skid coder
@@ -20,7 +20,7 @@ vlang (still learning
 ```
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubCrawIer&layout=compact&theme=dark) </br>
-![stats](https://github-readme-stats.vercel.app/api?username=GithubCrawIer&show_icons=true&theme=dark)
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xayopy&layout=compact&theme=dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=xayopy&show_icons=true&theme=dark)
 # Note
 all of the projects i made are for fun. if any of these projects get u disabled, or any other problems within using my programs its not my problem so use it at ur own risk
