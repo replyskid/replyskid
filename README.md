@@ -1,6 +1,5 @@
 # Xayo
 
-# DISCORD: ascii#0369
 hello, I'm xen; a learning developer, and a pro c skid coder
 
 if u need help w/ something contact my discord or create a issue!
